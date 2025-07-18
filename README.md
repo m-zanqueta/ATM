@@ -31,7 +31,7 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 Para instalar o simulador de ATM, siga estas etapas:
 
 ```
-Baixe o repositório e o execute em sua máquina
+Clone o repositório e execute-o em sua máquina
 ```
 
 ## 📫 Contribuindo para o projeto
@@ -71,4 +71,4 @@ Como alternativa, consulte a documentação do GitHub em [como criar uma solicit
 
 ## 📝 Licença
 
-O projeto Simulador ATM está sob licença. Veja este [arquivo](LICENSE.md) para mais detalhes. 
+O projeto ATM está sob licença. Veja este [arquivo](LICENSE.md) para mais detalhes. 
